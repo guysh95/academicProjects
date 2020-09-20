@@ -1,6 +1,4 @@
 /**
- *  Name1: Ido Gazit username: idogazit id: 313197980
- *  Name2: Guy Shnaider username: guyshnaider id: 313119679 
  * AVLTree
  *
  * An implementation of a AVL Tree with
